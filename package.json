@@ -1,5 +1,5 @@
 {
- 
+ "homepage": "https://DimpleGulwani.github.io/ThreeDPortfolio",
   "name": "reactjsportfoliothreejs",
  
   "private": true,
@@ -12,7 +12,7 @@
  
    
   "dev": "vite",
- 
+
    
   "build": "vite build",
  
